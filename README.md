@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [Template Reference Variable in Angular](https://vjtechworld.com/2019/09/template-reference-variable-in-angular.html) on [VJ Tech Diary](https://vjtechworld.com). 
+Read tutorial [Template Reference Variable in Angular](https://vjtechworld.com/2019/09/template-reference-variable-in-angular.html) on [VJ Tech World](https://vjtechworld.com). 
 
 ## Install Dependencies
 
